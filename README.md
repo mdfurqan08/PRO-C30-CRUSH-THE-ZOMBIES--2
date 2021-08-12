@@ -1,1 +1,2 @@
-# PRO-C30-CRUSH-THE-ZOMBIES--2
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
